@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://satyamchouksey.github.io/csb-ndmgbz/static/css/main.088564d1.chunk.css",
+    "main.js": "https://satyamchouksey.github.io/csb-ndmgbz/static/js/main.81e0d965.chunk.js",
+    "main.js.map": "https://satyamchouksey.github.io/csb-ndmgbz/static/js/main.81e0d965.chunk.js.map",
+    "runtime-main.js": "https://satyamchouksey.github.io/csb-ndmgbz/static/js/runtime-main.0d9e7b01.js",
+    "runtime-main.js.map": "https://satyamchouksey.github.io/csb-ndmgbz/static/js/runtime-main.0d9e7b01.js.map",
+    "static/js/2.26baaec8.chunk.js": "https://satyamchouksey.github.io/csb-ndmgbz/static/js/2.26baaec8.chunk.js",
+    "static/js/2.26baaec8.chunk.js.map": "https://satyamchouksey.github.io/csb-ndmgbz/static/js/2.26baaec8.chunk.js.map",
+    "index.html": "https://satyamchouksey.github.io/csb-ndmgbz/index.html",
+    "static/css/main.088564d1.chunk.css.map": "https://satyamchouksey.github.io/csb-ndmgbz/static/css/main.088564d1.chunk.css.map",
+    "static/js/2.26baaec8.chunk.js.LICENSE.txt": "https://satyamchouksey.github.io/csb-ndmgbz/static/js/2.26baaec8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d9e7b01.js",
+    "static/js/2.26baaec8.chunk.js",
+    "static/css/main.088564d1.chunk.css",
+    "static/js/main.81e0d965.chunk.js"
+  ]
+}
